@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "updated": "2026-11-18",
+  "note": "Satire of real stories from the week of 2026-11-16. Parody names only; nobody real is named.",
+  "pools": {
+    "arrivals": [
+      "{city} port's cargo cranes start moving on their own after a 'routine update'",
+      "Payment terminals across {city} reboot at once. Coffee is free for nine minutes."
+    ],
+    "early": [
+      "Hackers slip wallet-swapping code into 178 big websites through one shared plugin. The plugin was 'very popular'.",
+      "Security firm reports the first hack with no human involved at any step. Police unsure who to arrest.",
+      "Police seize 235 criminal servers in a single morning. A 236th sends a thank-you note.",
+      "Furniture chain leaks 37 million customer records. The assembly instructions remain a secret.",
+      "Remote-support company's own support accounts hacked. A support ticket has been opened.",
+      "New rules close the 'just rent the chips abroad' loophole. Data centre landlords in shock.",
+      "Southeast Asia's data centre boom now needs a licence for every chip. Paper shredders sell out.",
+      "City library hit by ransomware. Late fees forgiven 'for now'."
+    ],
+    "middle": [
+      "Drone maker hacked. Investigators still checking whether the drones noticed.",
+      "University systems offline for a week. Students call it 'the best week of the semester'.",
+      "Patch released 9 minutes after a bug is found. The exploit came out 4 minutes before that.",
+      "Ransomware gang now demands payment in compute instead of crypto",
+      "Website plugin quietly swaps every crypto payment address on the internet. Again.",
+      "Security researchers find malware that writes its own patch notes"
+    ],
+    "late": [
+      "Last human ransomware gang retires, citing 'unfair competition'"
+    ],
+    "hopeful": [
+      "Police take down a botnet in one morning. For once, it doesn't come back."
+    ]
+  }
+}
