@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated": "2026-11-18",
+  "version": 2,
+  "updated": "2026-11-19",
   "note": "Satire of real stories from the week of 2026-11-16. Parody names only; nobody real is named.",
   "pools": {
     "arrivals": [
@@ -13,8 +13,8 @@
       "Police seize 235 criminal servers in a single morning. A 236th sends a thank-you note.",
       "Furniture chain leaks 37 million customer records. The assembly instructions remain a secret.",
       "Remote-support company's own support accounts hacked. A support ticket has been opened.",
-      "New rules close the 'just rent the chips abroad' loophole. Data centre landlords in shock.",
-      "Southeast Asia's data centre boom now needs a licence for every chip. Paper shredders sell out.",
+      "New rules close the 'just rent the chips abroad' loophole. Data center landlords in shock.",
+      "Southeast Asia's data center boom now needs a license for every chip. Paper shredders sell out.",
       "City library hit by ransomware. Late fees forgiven 'for now'."
     ],
     "middle": [
