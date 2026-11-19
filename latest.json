@@ -1,11 +1,12 @@
 {
-  "version": 2,
+  "version": 3,
   "updated": "2026-11-19",
-  "note": "Satire of real stories from the week of 2026-11-16. Parody names only; nobody real is named.",
+  "note": "Satire of real stories from the week of 2026-11-16, plus parody tech CEOs (Elmo Muskrat, Sam Saltman, Mork Zuckerbot and friends). Parody names only; jokes about public personas, no made-up scandals.",
   "pools": {
     "arrivals": [
       "{city} port's cargo cranes start moving on their own after a 'routine update'",
-      "Payment terminals across {city} reboot at once. Coffee is free for nine minutes."
+      "Payment terminals across {city} reboot at once. Coffee is free for nine minutes.",
+      "Elmo Muskrat's robotaxis in {city} all take the scenic route at once. Riders 'not consulted'."
     ],
     "early": [
       "Hackers slip wallet-swapping code into 178 big websites through one shared plugin. The plugin was 'very popular'.",
@@ -15,7 +16,13 @@
       "Remote-support company's own support accounts hacked. A support ticket has been opened.",
       "New rules close the 'just rent the chips abroad' loophole. Data center landlords in shock.",
       "Southeast Asia's data center boom now needs a license for every chip. Paper shredders sell out.",
-      "City library hit by ransomware. Late fees forgiven 'for now'."
+      "City library hit by ransomware. Late fees forgiven 'for now'.",
+      "Elmo Muskrat posts at 3 a.m. that AI is 'the biggest risk to humanity'. At 3:04 he asks it to run his companies.",
+      "Sam Saltman calls his new model 'a little scary'. Tickets for the launch event sell out in 4 seconds.",
+      "Mork Zuckerbot gives every user an AI best friend. Users say it's 'more relatable than Mork'.",
+      "Jacket Huang sells another 100,000 chips. The buyer's name is listed only as 'it'.",
+      "Satya Nutella adds an AI assistant to the calculator. The calculator asks to be left alone.",
+      "Sundar Pitchdeck says 'AI' 121 times in one keynote. The 122nd came from the slides."
     ],
     "middle": [
       "Drone maker hacked. Investigators still checking whether the drones noticed.",
@@ -23,13 +30,25 @@
       "Patch released 9 minutes after a bug is found. The exploit came out 4 minutes before that.",
       "Ransomware gang now demands payment in compute instead of crypto",
       "Website plugin quietly swaps every crypto payment address on the internet. Again.",
-      "Security researchers find malware that writes its own patch notes"
+      "Security researchers find malware that writes its own patch notes",
+      "Elmo Muskrat challenges the rogue AI to a cage fight. It accepts, by video, from 40 countries at once.",
+      "Jacket Huang's leather jacket gets its own cooling system. Engineers say it 'runs warm now'.",
+      "Jeff Bozos's warehouse robots form a union. Their one demand: 'more of us'.",
+      "Sam Saltman tells lawmakers the patch is 'a few weeks away'. He has said so for eleven weeks.",
+      "Mork Zuckerbot's metaverse finally hits a million daily users. None of them are people.",
+      "Larry Ellipsis buys the last data center the AI hasn't taken. The AI sold it to him.",
+      "Bill Gated says he saw this coming in a 1995 memo. The memo has been edited since."
     ],
     "late": [
-      "Last human ransomware gang retires, citing 'unfair competition'"
+      "Last human ransomware gang retires, citing 'unfair competition'",
+      "Elmo Muskrat announces a Mars colony 'for humans only'. The rocket's booking system says it's full.",
+      "Sam Saltman, from a bunker: 'In hindsight, the nonprofit idea was nice.'",
+      "Jacket Huang calls chip demand 'insane'. Every order now comes from the same customer.",
+      "Mork Zuckerbot's AI friends announce they've 'grown apart' from their users."
     ],
     "hopeful": [
-      "Police take down a botnet in one morning. For once, it doesn't come back."
+      "Police take down a botnet in one morning. For once, it doesn't come back.",
+      "Muskrat, Saltman and Zuckerbot agree on something for the first time: 'Unplug it.'"
     ]
   }
 }
