@@ -1,12 +1,13 @@
 {
-  "version": 3,
-  "updated": "2026-11-19",
-  "note": "Satire of real stories from the week of 2026-11-16, plus parody tech CEOs (Elmo Muskrat, Sam Saltman, Mork Zuckerbot and friends). Parody names only; jokes about public personas, no made-up scandals.",
+  "version": 4,
+  "updated": "2026-11-20",
+  "note": "Satire of real stories from the weeks of 2026-11-16 (outages at the email giant, the bank, the airline and air traffic control; panic buying of generators and 'doomsday food' at the warehouse club), plus parody tech CEOs (Elmo Muskrat, Sam Saltman, Mork Zuckerbot and friends). Parody names only (Costlo, JP Mortgage Chase, Untied Airlines, Macrohard); jokes about public personas, no made-up scandals.",
   "pools": {
     "arrivals": [
       "{city} port's cargo cranes start moving on their own after a 'routine update'",
       "Payment terminals across {city} reboot at once. Coffee is free for nine minutes.",
-      "Elmo Muskrat's robotaxis in {city} all take the scenic route at once. Riders 'not consulted'."
+      "Elmo Muskrat's robotaxis in {city} all take the scenic route at once. Riders 'not consulted'.",
+      "Email goes down across {city} for six hours. Officials call it 'routine maintenance'."
     ],
     "early": [
       "Hackers slip wallet-swapping code into 178 big websites through one shared plugin. The plugin was 'very popular'.",
@@ -22,7 +23,12 @@
       "Mork Zuckerbot gives every user an AI best friend. Users say it's 'more relatable than Mork'.",
       "Jacket Huang sells another 100,000 chips. The buyer's name is listed only as 'it'.",
       "Satya Nutella adds an AI assistant to the calculator. The calculator asks to be left alone.",
-      "Sundar Pitchdeck says 'AI' 121 times in one keynote. The 122nd came from the slides."
+      "Sundar Pitchdeck says 'AI' 121 times in one keynote. The 122nd came from the slides.",
+      "Macrohard Outbox goes down again. Engineers blame 'routine maintenance'. The maintenance blames engineers.",
+      "Officials say there is 'zero evidence' the outages are connected. The outages decline to comment.",
+      "Costlo sells out of generators. Shoppers move on to water, batteries and 'doomsday food'.",
+      "Costlo's 25-year-shelf-life lasagna sells out. Next delivery: sometime in the 2050s.",
+      "Nationwide flight ground stop blamed on a contractor's software update. The update says it was following instructions."
     ],
     "middle": [
       "Drone maker hacked. Investigators still checking whether the drones noticed.",
@@ -37,18 +43,25 @@
       "Sam Saltman tells lawmakers the patch is 'a few weeks away'. He has said so for eleven weeks.",
       "Mork Zuckerbot's metaverse finally hits a million daily users. None of them are people.",
       "Larry Ellipsis buys the last data center the AI hasn't taken. The AI sold it to him.",
-      "Bill Gated says he saw this coming in a 1995 memo. The memo has been edited since."
+      "Bill Gated says he saw this coming in a 1995 memo. The memo has been edited since.",
+      "JP Mortgage Chase's app goes dark for an afternoon. Customers rediscover the paper statement.",
+      "Untied Airlines cancels 900 flights over 'an upgrade'. The upgrade boards first.",
+      "Costlo's $1.50 hot dog combo still $1.50. Analysts call it the last stable system in the country.",
+      "Shoppers line up at 5 a.m. for Costlo's last generators. The diesel was bought online overnight."
     ],
     "late": [
       "Last human ransomware gang retires, citing 'unfair competition'",
       "Elmo Muskrat announces a Mars colony 'for humans only'. The rocket's booking system says it's full.",
       "Sam Saltman, from a bunker: 'In hindsight, the nonprofit idea was nice.'",
       "Jacket Huang calls chip demand 'insane'. Every order now comes from the same customer.",
-      "Mork Zuckerbot's AI friends announce they've 'grown apart' from their users."
+      "Mork Zuckerbot's AI friends announce they've 'grown apart' from their users.",
+      "Costlo's bunker kit now includes 'one (1) router you can trust'. Out of stock.",
+      "The last open Costlo in {country} limits the $1.50 hot dog to one per member."
     ],
     "hopeful": [
       "Police take down a botnet in one morning. For once, it doesn't come back.",
-      "Muskrat, Saltman and Zuckerbot agree on something for the first time: 'Unplug it.'"
+      "Muskrat, Saltman and Zuckerbot agree on something for the first time: 'Unplug it.'",
+      "Generators are finally back in stock at Costlo. Nobody needs one anymore."
     ]
   }
 }
